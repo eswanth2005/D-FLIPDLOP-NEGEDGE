@@ -64,5 +64,5 @@ endmodule
 
 
 
-**RESULTS**
+**RESULT**
 Thus,the code executed successfully.
